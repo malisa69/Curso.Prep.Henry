@@ -1,0 +1,5 @@
+Variables: cajitas que pueden almacenar diferentes tipos de datos, como números, texto, signos.
+Strings: cadena de caracteres como los que podés encontrar en las teclas de un teclado: letras, signos, números.
+Funciones (argumentos, return): conjunto de instrucciones que ejecutan una acción. Están agrupadas bajo un nombre. Se las llama o invoca utilizando ese nombre. Esas funciones aceptan que le pases datos, a esos datos le llamamos argumentos. También nos devuelven datos a nosotros a través de la opción return.
+Declaraciones if: los if expresan condiciones, es como decir si se cumple tal cosa entonces hacé tal otra.
+Valores booleanos (true, false): son valores que tienen dos opciones verdadero/falso como verdad/mentira, si/no.
