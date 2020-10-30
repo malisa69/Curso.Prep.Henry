@@ -1,0 +1,13 @@
+FOR
+Es un bucle que se utiliza para repetir una o más instrucciones un determinado número de veces. Es conveniente utilizarlo cuando sabemos el número de veces que queremos que se ejecute.
+
+
+&&, ||, ! : Son operadores booleanos también llamados operadores lógicos que devuelven un valor: verdadero/falso, en función de los operandos, que también tienen valores lógicos.
+
+&& : El operador AND, devuelve verdadero si los dos operandos son verdaderos, falso si alguno de los operandos es falso o si ambos operandos son falsos.
+
+||: El operador OR, devuelve verdadero si alguno de los operandos es verdadero o si ambos son verdaderos, y falso si los dos operandos son falsos.
+
+!: El operador NOT, devuelve el valor opuesto al del operando, es decir si es verdadero el operando, el operador devuelve falso y si es falso el operando, el operador devuelve verdadero.
+
+
