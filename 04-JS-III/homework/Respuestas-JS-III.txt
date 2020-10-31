@@ -1,0 +1,5 @@
+Arrays:
+
+Los Arreglos, también llamados listas (1 dimensión) o matrices (2 dimensiones), son considerados como una colección o conjunto de elementos organizados u ordenados.
+Los elementos que contiene un Arreglo pueden ser datos de cualquier tipo como: números, string, booleanos, null.
+Se puede acceder a cada uno de los elementos sabiendo la ubicación del mismo en la lista o matriz. Por ejemplo si A es un arreglo tipo lista, con A[2], accedo al 3er elemento de la lista, dado que los elementos se comienzan a enumerar del 0 en adelante.
