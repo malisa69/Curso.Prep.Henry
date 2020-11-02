@@ -1,0 +1,19 @@
+En nuestra vida cotidiana podríamos definir como objetos por ejemplo una mesa, un auto, un perro, un celular, un gato, etc. Dichos objetos tienen características que le son propias que podemos llamar propiedades, algo así como los adjetivos que usaríamos para describirlos y también tienen asociadas acciones que le son propias, que podríamos llamar métodos o funciones, como los verbos que utilizamos con ellos.
+Por ejemplo, el objeto auto puede tener la propiedad azul y el método o función andar.
+De forma similar en programación existen objetos con sus propiedades y métodos.
+
+Objetos:
+Puede definirse como una colección o conjunto de propiedades. Por ejemplo el objeto Usuario. Sus propiedades podrían ser: Nombre, Apellido, Domicilio, email, etc.
+
+Propiedades:
+Una propiedad es una asociación entre un nombre(clave) y un valor. Por ejemplo Apellido:Pérez
+
+Métodos:
+Son las acciones que puede hacer un  objeto. Por ejemplo usuario.saludo().
+
+Bucle for…in:
+Es un bucle especial que se utliza para recorrer todas las claves de un objeto. De forma similar a cuando, lo hacemos con las matrices, sólo que en ese caso utilizamos el índice de las mismas para recorrer todos los elementos de la matriz. En este caso como no tenemos índice se utliza for colocando la palabra clave "in" y el nombre del objeto.
+
+Notación de puntos vs notación de corchetes:
+Cuando utilizamos notación de puntos, se coloca objeto.propiedad, por ejemplo: usuario.Apellido
+Cuando utilizamos notación de corchetes, colocamos objeto[propiedad], por ejemplo usuario[Apellido]
